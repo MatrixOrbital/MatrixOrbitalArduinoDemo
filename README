@@ -2,7 +2,7 @@ This I2C menu demo written in the Arduino programming language for an Arduino Un
 
 It is built upon the Wire.h library, but contains a number of higher level functions to create menus, process user input, and provide live screen updates.
 
-Please visit matrixorbital.ca for more information including manuals for all Matrix Orbital displays.
+Please visit https://www.matrixorbital.ca for more information including manuals for all Matrix Orbital displays.
 
 I am a part of the design and support teams at Matrix Orbital, but this is a project undertaken in my own time in an effort to understand how our displays preform in the Arduino environment.
 
