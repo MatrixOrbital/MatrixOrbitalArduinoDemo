@@ -1,4 +1,4 @@
-This I2C menu demo written in the Arduino programming language for an Arduino Uno controller.  It runs on a special version of the ELK204-7T-1U enclosure, but the functions can be adapted to any Matrix Orbital display.
+This I2C menu demo written in the Arduino programming language for an Arduino Uno controller.  It runs on a special version of the ELK204-7T enclosure, but the functions can be adapted to any Matrix Orbital display.
 
 It is built upon the Wire.h library, but contains a number of higher level functions to create menus, process user input, and provide live screen updates.
 
@@ -8,3 +8,7 @@ I am a part of the design and support teams at Matrix Orbital, but this is a pro
 
 Thanks,
 Troy
+
+The ELK204-7T is an external 20x4 Intelligent LCD display in a metal or ABS enclosure. Available in RS232, TTL, I2C, and USB LCD.
+
+https://www.matrixorbital.com/elk204-7t
